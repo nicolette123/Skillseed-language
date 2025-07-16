@@ -1,0 +1,14 @@
+{
+  "language": "Langue",
+  "select": "Choisissez votre langue",
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos de nous",
+    "contact": "Contact",
+    "welcome": "Bienvenue sur la plateforme Skillseed"
+  },
+  "buttons": {
+    "submit": "Soumettre",
+    "cancel": "Annuler"
+  }
+}

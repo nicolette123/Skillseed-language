@@ -1,0 +1,19 @@
+{
+  "navbar": {
+    "title": "Ikaze kuri Skillseed"
+  },
+  "home": {
+    "welcome": "Murakaza neza ku rubuga rwacu",
+    "description": "Dushyigikiye uburezi hifashishijwe ikoranabuhanga.",
+    "mission": "Intego yacu ni ukuzamura ubumenyi bwa buri mwana.",
+    "impact": "Twageze ku rubyiruko rwinshi mu bihugu bitandukanye."
+  },
+  "about": {
+    "title": "Ibyerekeye Twebwe",
+    "content": "Skillseed ni urubuga rugamije guteza imbere ubumenyi binyuze mu ikoranabuhanga."
+  },
+  "contact": {
+    "title": "Twandikire",
+    "content": "Nyamuneka twandikire niba ufite ikibazo cyangwa igitekerezo."
+  }
+}

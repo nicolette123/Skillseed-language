@@ -1,0 +1,14 @@
+{
+  "language": "Lugha",
+  "select": "Chagua lugha yako",
+  "nav": {
+    "home": "Nyumbani",
+    "about": "Kuhusu Sisi",
+    "contact": "Wasiliana Nasi",
+    "welcome": "Karibu kwenye Jukwaa la Skillseed"
+  },
+  "buttons": {
+    "submit": "Tuma",
+    "cancel": "Ghairi"
+  }
+}
